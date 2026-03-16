@@ -1,4 +1,4 @@
-# FastAPI Cart System -- Day 5 Assignment
+# FastAPI Cart System -- Day 4 Assignment
 
 ## Overview
 
